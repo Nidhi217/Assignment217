@@ -8,6 +8,11 @@ public class calculation {
 		sum=x+y; 
 		return sum;
 	}
-      
+      int subtraction(int diff) {
+    	  diff=x-y;
+    	  return diff;
+      }
+    	 
+    
 
 }
